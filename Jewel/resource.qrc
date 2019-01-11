@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/banana.png</file>
+        <file>resource/carambola.png</file>
+        <file>resource/durian.png</file>
+        <file>resource/grape.png</file>
+        <file>resource/strawberry.png</file>
+        <file>resource/watermelon.png</file>
+        <file>resource/icon.ico</file>
+        <file>resource/BauhausStd-Light.otf</file>
+    </qresource>
+</RCC>
